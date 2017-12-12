@@ -1,5 +1,5 @@
- {
-     "mockdata" :[
+ 
+     [
     {        
         "Id": "123",
         "Type": "Type A",
@@ -24,4 +24,4 @@
         "AssignedTo": "Unassigned"        
     }
 ]
-}
+
