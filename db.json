@@ -1,5 +1,6 @@
-[
-mockdata
+{
+    mockdata: [
+
     {        
 
         "Id": "123",
@@ -17,3 +18,4 @@ mockdata
     }
 
 ]
+}
